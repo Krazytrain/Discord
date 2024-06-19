@@ -3,12 +3,12 @@
 /* ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝ */
 
 /* Spacing */
-.wrapper-1_HaEi {
+.wrapper_fea3ef {
   margin-bottom: calc(var(--layout-margin-bottom) + var(--inner-secondary) + 48px + var(--inner-secondary) + 48px + var(--inner-secondary) + 48px + var(--inner-secondary) + var(--layout-margin)) !important;
 }
 
 /* Background */
-.panels-3wFtMD .container-YkUktl:last-child .flex-2S1XBF {
+.panels_a4d4d9 .container_b2ca13:last-child .flex_bba380 {
   position: fixed;
   background: var(--background-secondary);
   border-radius: var(--radius-primary);
@@ -24,7 +24,7 @@
 }
 
 /* Buttons */
-.panels-3wFtMD>.container-YkUktl:last-child .directionRow-2Iu2A9 .button-12Fmur {
+.panels_a4d4d9>.container_b2ca13:last-child .directionRow__65900 .button_f67531 {
   background: var(--background-primary);
   border-radius: var(--radius-primary);
   width: 48px;
@@ -32,11 +32,11 @@
 }
 
 /* Panel */
-.panels-3wFtMD>.container-YkUktl:last-child {
+.panels_a4d4d9>.container_b2ca13:last-child {
 margin-bottom: -42px;
 }
 
 /* Remove Game Activity */
-.panels-3wFtMD>.container-YkUktl:last-child .button-12Fmur:nth-last-child(4) {
+.panels_a4d4d9>.container_b2ca13:last-child .button_f67531:nth-last-child(4) {
   display: none;
 }

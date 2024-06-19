@@ -3,7 +3,7 @@
 /* ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝ */
 
 /* Spacing */
-.scroller-3X7KbA {
+.scroller_fea3ef {
   contain: unset;
 }
 
@@ -12,16 +12,16 @@
 /* ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝ */
 
 /* Spacing */
-.wrapper-1_HaEi {
+.wrapper_fea3ef {
   margin-top: calc((var(--guild-icon) * 3) + (var(--guild-spacing) * 4) + var(--layout-margin) + var(--layout-margin-top)) !important;
 }
 
-.scroller-3X7KbA {
+.scroller_fea3ef {
   padding-top: 0px !important;
 }
 
 /* Home Button */
-.tutorialContainer-1pL9QS {
+.tutorialContainer_f9623d {
   position: fixed;
   background: var(--background-secondary);
   border-radius: var(--radius-primary);
@@ -30,33 +30,33 @@
   top: var(--layout-margin-top);
 }
 
-.platform-win .tutorialContainer-1pL9QS {
+.platform-win .tutorialContainer_f9623d {
   top: calc(var(--height-titlebar) - 2px + var(--layout-margin-top));
 }
 
 /* Explore Button */
-.scroller-3X7KbA > .listItem-3SmSlK:nth-last-child(2) {
+.scroller_fea3ef > .listItem_c96c45:nth-last-child(2) {
   position: fixed;
   top: calc(var(--layout-margin-top) + var(--inner-secondary) + var(--guild-icon) + var(--guild-spacing));
 }
 
-.platform-win .scroller-3X7KbA > .listItem-3SmSlK:nth-last-child(2) {
+.platform-win .scroller_fea3ef > .listItem_c96c45:nth-last-child(2) {
   position: fixed;
   top: calc(var(--height-titlebar) - 2px + var(--layout-margin-top) + var(--inner-secondary) + var(--guild-icon) + var(--guild-spacing));
 }
 
-.platform-web .scroller-3X7KbA > .listItem-3SmSlK:nth-last-child(4) {
+.platform-web .scroller_fea3ef > .listItem_c96c45:nth-last-child(4) {
   position: fixed !important;
   top: calc(var(--layout-margin-top) + var(--inner-secondary) + var(--guild-icon) + var(--guild-spacing));
 }
 
 /* Add Server Button */
-.tutorialContainer-2jwoiB {
+.tutorialContainer_c96c45 {
   position: fixed;
   top: calc(var(--layout-margin-top) + var(--inner-secondary) + var(--guild-icon) + var(--guild-spacing) + var(--guild-icon) + var(--guild-spacing));
 }
 
-.platform-win .tutorialContainer-2jwoiB {
+.platform-win .tutorialContainer_c96c45 {
   position: fixed;
   top: calc(var(--height-titlebar) - 2px + var(--layout-margin-top) + var(--inner-secondary) + var(--guild-icon) + var(--guild-spacing) + var(--guild-icon) + var(--guild-spacing));
 }
@@ -75,15 +75,15 @@
 }
 
 /* Separator */
-.scroller-3X7KbA > .listItem-3SmSlK:nth-last-child(5) {
+.scroller_fea3ef > .listItem_c96c45:nth-last-child(5) {
   order: -1;
 }
 
-[style="opacity: 1; height: 56px; transform: scale(1);"] + .listItem-3SmSlK .guildSeparator-a4uisj {
+[style="opacity: 1; height: 56px; transform: scale(1);"] + .listItem_c96c45 .guildSeparator_d0c57e {
   display: block;
 }
 
-.guildSeparator-a4uisj {
+.guildSeparator_d0c57e {
   display: none;
 }
 
@@ -92,12 +92,12 @@
 /* ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝ */
 
 /* Spacing */
-.wrapper-1_HaEi {
+.wrapper_fea3ef {
   margin-bottom: calc(var(--layout-margin-bottom) + var(--inner-secondary) + 48px + var(--inner-secondary) + 48px + var(--inner-secondary) + 48px + var(--inner-secondary) + var(--layout-margin)) !important;
 }
 
 /* Background */
-.panels-3wFtMD .container-YkUktl:last-child .flex-2S1XBF {
+.panels_a4d4d9 .container_b2ca13:last-child .flex_bba380 {
   position: fixed;
   background: var(--background-secondary);
   border-radius: var(--radius-primary);
@@ -113,7 +113,7 @@
 }
 
 /* Buttons */
-.panels-3wFtMD>.container-YkUktl:last-child .directionRow-2Iu2A9 .button-12Fmur {
+.panels_a4d4d9>.container_b2ca13:last-child .directionRow__65900 .button_f67531 {
   background: var(--background-primary);
   border-radius: var(--radius-primary);
   width: 48px;
@@ -121,11 +121,11 @@
 }
 
 /* Panel */
-.panels-3wFtMD>.container-YkUktl:last-child {
+.panels_a4d4d9>.container_b2ca13:last-child {
 margin-bottom: -42px;
 }
 
 /* Remove Game Activity */
-.panels-3wFtMD>.container-YkUktl:last-child .button-12Fmur:nth-last-child(4) {
+.panels_a4d4d9>.container_b2ca13:last-child .button_f67531:nth-last-child(4) {
   display: none;
 }

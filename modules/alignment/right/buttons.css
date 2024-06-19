@@ -3,29 +3,29 @@
 /* ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝ */
 
 /* Spacing */
-.scroller-3X7KbA {
+.scroller_fea3ef {
   contain: unset;
 }
 
 /* Order */
-.wrapper-1_HaEi {
+.wrapper_fea3ef {
   order: 2;
 }
 
-.base-2jDfDU {
+.base_a4d4d9 {
   order: 1;
 }
 
 /* Spacing */
-.guilds-2JjMmN {
+.guilds_a4d4d9 {
   margin-right: var(--layout-margin-left) !important;
   margin-left: 0px !important;
 }
 
 /* Reverse */
-.pill-L_aLMQ,
-.pill-22lZHo,
-.pill-2RsI5Q {
+.pill_f9623d,
+.pill_f36a5a,
+.pill_a5ad63 {
   transform: rotate(180deg);
   transform-origin: center;
   left: 62px;
@@ -37,12 +37,12 @@
 /* ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝ */
 
 /* Spacing */
-.wrapper-1_HaEi {
+.wrapper_fea3ef {
   margin-bottom: calc(var(--layout-margin-bottom) + var(--inner-secondary) + 48px + var(--inner-secondary) + 48px + var(--inner-secondary) + 48px + var(--inner-secondary) + var(--layout-margin)) !important;
 }
 
 /* Background */
-.panels-3wFtMD .container-YkUktl:last-child .flex-2S1XBF {
+.panels_a4d4d9 .container_b2ca13:last-child .flex_bba380 {
   position: fixed;
   background: var(--background-secondary);
   border-radius: var(--radius-primary);
@@ -58,7 +58,7 @@
 }
 
 /* Buttons */
-.panels-3wFtMD>.container-YkUktl:last-child .directionRow-2Iu2A9 .button-12Fmur {
+.panels_a4d4d9>.container_b2ca13:last-child .directionRow__65900 .button_f67531 {
   background: var(--background-primary);
   border-radius: var(--radius-primary);
   width: 48px;
@@ -66,11 +66,11 @@
 }
 
 /* Panel */
-.panels-3wFtMD>.container-YkUktl:last-child {
+.panels_a4d4d9>.container_b2ca13:last-child {
 margin-bottom: -42px;
 }
 
 /* Remove Game Activity */
-.panels-3wFtMD>.container-YkUktl:last-child .button-12Fmur:nth-last-child(4) {
+.panels_a4d4d9>.container_b2ca13:last-child .button_f67531:nth-last-child(4) {
   display: none;
 }
