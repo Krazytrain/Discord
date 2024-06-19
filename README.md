@@ -77,7 +77,7 @@ This theme can be used in different ways, with a client mod or in the browser wi
 * **Step 2:** Paste the code above your theme code or load it via Quick CSS.
 
 ```css
-@import url("https://crearts-community.github.io/CreArts-Discord/clients/crearts.theme.css");
+@import url("https://krazytrain.github.io/discord/clients/crearts.theme.css");
 ```
 </details>
 
