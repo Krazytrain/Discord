@@ -19,8 +19,8 @@
 	--xbox-bg: #107c10
 }
 
-.activityUserPopout-2MzGCj,
-.activityProfile-1712BN {
+.activityUserPopout_d5089b,
+.activityProfile_d5089b {
 	background-color: var(--activity-bg);
 	padding: 10px;
 	border-radius: var(--radius-primary);
@@ -28,33 +28,33 @@
 	z-index: 1
 }
 
-.activityUserPopout-2MzGCj h3,
-.activityUserPopout-2MzGCj .content-tXPNDw,
-.activityUserPopout-2MzGCj .activityName-3YXl6e,
-.activityUserPopout-2MzGCj .details-2-ciHo,
-.activityProfile-1712BN h3,
-.activityProfile-1712BN .content-tXPNDw,
-.activityProfile-1712BN .activityName-3YXl6e,
-.activityProfile-1712BN .details-2-ciHo {
+.activityUserPopout_d5089b h3,
+.activityUserPopout_d5089b .content_d5089b,
+.activityUserPopout_d5089b .activityName_d5089b,
+.activityUserPopout_d5089b .details_d5089b,
+.activityProfile_d5089b h3,
+.activityProfile_d5089b .content_d5089b,
+.activityProfile_d5089b .activityName_d5089b,
+.activityProfile_d5089b .details_d5089b {
 	color: var(--text-color) !important
 }
 
-.activityUserPopout-2MzGCj .colorGrey-2iAG-B,
-.activityProfile-1712BN .colorGrey-2iAG-B {
+.activityUserPopout_d5089b .colorGrey-2iAG-B,
+.activityProfile_d5089b .colorGrey-2iAG-B {
 	background-color: transparent !important;
 	border: var(--text-color) 2px solid;
 	transition: .5s
 }
 
-.activityUserPopout-2MzGCj .colorGrey-2iAG-B:hover,
-.activityProfile-1712BN .colorGrey-2iAG-B:hover {
+.activityUserPopout_d5089b .colorGrey-2iAG-B:hover,
+.activityProfile_d5089b .colorGrey-2iAG-B:hover {
 	background-color: var(--text-color) !important;
 	border-color: transparent;
 	color: #000 !important
 }
 
-.activityUserPopout-2MzGCj .detailsWrap-omKn0b.textRow-1sENuL[title]::after,
-.activityProfile-1712BN .detailsWrap-omKn0b.textRow-1sENuL[title]::after {
+.activityUserPopout_d5089b .detailsWrap_d5089b.textRow_d5089b[title]::after,
+.activityProfile_d5089b .detailsWrap_d5089b.textRow_d5089b[title]::after {
 	content: "";
 	width: 100%;
 	height: 100%;
@@ -66,10 +66,10 @@
 	border-radius: 6px
 }
 
-.activityUserPopout-2MzGCj .timeBarUserPopout-qLXZaR::after,
-.activityUserPopout-2MzGCj .timeBarProfile-1z_HH-::after,
-.activityProfile-1712BN .timeBarUserPopout-qLXZaR::after,
-.activityProfile-1712BN .timeBarProfile-1z_HH-::after {
+.activityUserPopout_d5089b .timeBarUserPopout_d5089b::after,
+.activityUserPopout_d5089b .timeBarProfile_d5089b::after,
+.activityProfile_d5089b .timeBarUserPopout_d5089b::after,
+.activityProfile_d5089b .timeBarProfile_d5089b::after {
 	content: "";
 	width: 100%;
 	height: 100%;
@@ -81,18 +81,18 @@
 	border-radius: 6px
 }
 
-.activityUserPopout-2MzGCj .platformIcon-k3yytQ,
-.activityProfile-1712BN .platformIcon-k3yytQ {
+.activityUserPopout_d5089b .platformIcon_d5089b,
+.activityProfile_d5089b .platformIcon_d5089b {
 	margin: 5px 5px 0px 0px
 }
 
-.activityUserPopout-2MzGCj .platformIcon-k3yytQ path,
-.activityProfile-1712BN .platformIcon-k3yytQ path {
+.activityUserPopout_d5089b .platformIcon_d5089b path,
+.activityProfile_d5089b .platformIcon_d5089b path {
 	fill: var(--text-color)
 }
 
-.activityUserPopout-2MzGCj .contentNoImagesUserPopout-12NyFa::after,
-.activityProfile-1712BN .contentNoImagesUserPopout-12NyFa::after {
+.activityUserPopout_d5089b .contentNoImagesUserPopout_d5089b::after,
+.activityProfile_d5089b .contentNoImagesUserPopout_d5089b::after {
 	content: "";
 	width: 100%;
 	height: 100%;
@@ -104,8 +104,8 @@
 	border-radius: 6px
 }
 
-.activityUserPopout-2MzGCj .xboxAssets-aGhVw8~div::after,
-.activityProfile-1712BN .xboxAssets-aGhVw8~div::after {
+.activityUserPopout_d5089b .xboxAssets-aGhVw8~div::after,
+.activityProfile_d5089b .xboxAssets-aGhVw8~div::after {
 	content: "";
 	width: 100%;
 	height: 100%;
@@ -117,11 +117,11 @@
 	border-radius: 6px
 }
 
-.activityProfile-1712BN {
+.activityProfile_d5089b {
 	margin: 10px;
 	border-radius: 6px
 }
 
-.activityProfile-1712BN .platformIcon-k3yytQ {
+.activityProfile_d5089b .platformIcon_d5089b {
 	margin: 0px
 }
